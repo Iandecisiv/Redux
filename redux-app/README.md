@@ -19,3 +19,8 @@ This project uses a number of open source projects to work properly:
 * [ReactStrap](https://reactstrap.github.io/) - Reactstrap provides prebuilt Bootstrap 4 components that allow a great deal of flexibility and prebuilt validation
 * [Redux-Logger](https://github.com/LogRocket/redux-logger) -  Redux logging tool that lets you replay problems as if they happened in your own browser. 
 * [Styled-Components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+
+
+## Redux Notes
+
++ 
